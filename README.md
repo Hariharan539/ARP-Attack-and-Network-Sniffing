@@ -26,14 +26,15 @@ In windows 7 give the command arp -a
 ## OUTPUT:
 
 
+<img width="859" height="543" alt="image" src="https://github.com/user-attachments/assets/b9ffe5aa-0a5a-43a1-bcab-48c190d2771c" />
+
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 
+<img width="837" height="501" alt="image" src="https://github.com/user-attachments/assets/ba7a6528-f104-457b-99d9-0de5b67b3cef" />
 
- dsniff:
-
-
+<img width="811" height="486" alt="image" src="https://github.com/user-attachments/assets/e00302c6-6e68-4173-a54d-801667c4034f" />
 
 
 
@@ -41,6 +42,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
+<img width="849" height="586" alt="image" src="https://github.com/user-attachments/assets/20e90008-dc91-4187-b429-126139efcdda" />
 
 
 
@@ -48,6 +50,7 @@ In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
+<img width="1634" height="684" alt="image" src="https://github.com/user-attachments/assets/e3914606-2bef-4606-bb7e-42a5162e32d2" />
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
